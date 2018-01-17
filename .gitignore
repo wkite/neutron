@@ -1,0 +1,17 @@
+*.DS_Store
+*.pyc
+vcsversion.py
+versioninfo
+*.log
+*.mo
+*.sw?
+*~
+/.*
+!/.coveragerc
+!/.gitignore
+!/.gitreview
+!/.mailmap
+!/.pylintrc
+!/.stestr.conf
+!/.testr.conf
+!/.zuul.yaml
